@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/FernandoEmilianoFloresDeLaRiva/advice-generator-app-solution]
-- Live Site URL: [hhttps://advice-generator-app-solution-theta.vercel.app]
+- Live Site URL: [https://advice-generator-app-solution-theta.vercel.app]
 
 ## My process
 
