@@ -1,0 +1,15 @@
+footer {
+  position: absolute;
+  bottom: 2vh;
+  text-align: center;
+  width: 100vw;
+  font-size: 11px;
+}
+
+.attribution {
+  color: hsl(193, 38%, 86%);
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

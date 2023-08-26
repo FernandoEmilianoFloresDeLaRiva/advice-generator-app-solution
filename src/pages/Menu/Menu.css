@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Manrope;
+  src: url("../../fonts/Manrope-VariableFont_wght.ttf");
+}
+
+.App {
+  font-family: Manrope;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: hsl(218, 23%, 16%);
+}
+
+main {
+  position: absolute;
+  left: 30vw;
+  top: 20vh;
+}
+
+@media screen and (max-width: 376px) {
+  main {
+    left: 10vw;
+  }
+}
