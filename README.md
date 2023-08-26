@@ -23,14 +23,14 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-![](./screenshots/desktop-img.png)
-![](./screenshots/cellphone-img.png)
-![](./screenshots/desktop-live.mp4)
+![desktop-img](./screenshots/desktop-img.png)
+![cellphone-img](./screenshots/cellphone-img.png)
+![desktop-live](./screenshots/desktop-live.mp4)
 
 ### Links
 
-- Solution URL: [](https://github.com/FernandoEmilianoFloresDeLaRiva/advice-generator-app-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/FernandoEmilianoFloresDeLaRiva/advice-generator-app-solution]
+- Live Site URL: [hhttps://advice-generator-app-solution-theta.vercel.app]
 
 ## My process
 
